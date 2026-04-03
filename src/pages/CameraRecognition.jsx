@@ -4,7 +4,7 @@ import * as tmImage from '@teachablemachine/image'
 import RecycleSymbol from '../components/RecycleSymbol'
 
 // Teachable Machine 모델 URL (학습 후 여기에 붙여넣기)
-const MODEL_URL = ''
+const MODEL_URL = 'https://teachablemachine.withgoogle.com/models/Som4DE2Pf/'
 
 // 클래스명 → recycleData id 매핑
 const CLASS_MAP = {
