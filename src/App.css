@@ -573,7 +573,10 @@ body {
 
 .camera-container video {
   width: 100%;
+  height: auto;
   display: block;
+  object-fit: cover;
+  transform: scaleX(-1);
 }
 
 .camera-placeholder {
