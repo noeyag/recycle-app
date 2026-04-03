@@ -1,3 +1,4 @@
 셀피쉬클럽 덕에 경험한 첫 바이브 코딩 기록 ....<br/>
 디자인도 밤티고 모든게 별로지만 그래도 재밌었다 !!!!!!!!!!!!!!<br/>
 비어있던 내 탈모 잔디밭에 한 줄기의 희망이....<br/>
+<img width="360" height="360" alt="Image" src="https://github.com/user-attachments/assets/e6f0ffb6-d8cc-4935-a72d-b4abc4469a45" />
